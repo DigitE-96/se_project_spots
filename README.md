@@ -19,5 +19,3 @@ This webpage is deployed to Github Pages
 -[ Deployment Link:](https://digite-96.github.io/se_project_spots/)
 
 ## Video of my Project
-
-<---[Deployment Link:]https://drive.google.com/open?id=0BzlX4jzxHHReTkRQMTI5YjdwcFU&resourcekey=0-Xr3a4TW4zy6AtPXtRq3K_g&usp=drive_copy
