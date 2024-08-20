@@ -20,4 +20,4 @@ This webpage is deployed to Github Pages
 
 ## Video of my Project
 
--[Deployment Link] file:///C:/Users/New%20User/Downloads/Project%203%20video%20Spots.mp4
+-[Deployment Link] c:\Users\New User\Downloads\Project 3 video Spots.mp4
