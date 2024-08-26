@@ -36,8 +36,7 @@
 
 .card__like-btn:hover {
   cursor: pointer;
-  color: #212121;
-  opacity: 80%;
+  opacity: 1;
 }
 
 @media screen and (max-width: 627px) {
